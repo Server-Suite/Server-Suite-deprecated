@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Server-Suit
+Version=1.0
+Exec=python /home/saurabh/server-suite/splash.py
+Icon=/home/saurabh/server-suite/logo128x128.png
+Path=/home/saurabh/server-suite/
+Comment=Descriton......
+Type=Application
+Terminal=false
+StartupNotify=false
+Categories=Tools;Applications;Server
+Name[en_US]=Server-Suite
